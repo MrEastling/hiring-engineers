@@ -4,7 +4,7 @@ Reviewer(s),
 
 Thank you very much for the opportunity to move forward with the hiring proecss at Datadog. Through each aspect of the process I have been able to obtain quite a bit of insight about the Datadog platform and configuration. I particularly enjoyed the hiring exercise experience as it really inspired me to get under the hood and accomplish a tangible amount of learning about Datadog technology overall.
 
-Pease find my answers below to each of the questions/activties defined in the technical exercise for the position of Solution Engineer.
+I have completed the Technical Exercise activities and provided detailed answers, supporting documentation and screenshots for review below.
 
 I look forward to your review and please let me know if there are any questions regarding my submission.
 
